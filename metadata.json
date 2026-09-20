@@ -1,0 +1,7 @@
+{
+  "name": "SUYAIB SOCIAL",
+  "description": "Modern full-featured social media application with feeds, stories, real-time messaging, explore, profiles, notifications, and administrative dashboard",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
